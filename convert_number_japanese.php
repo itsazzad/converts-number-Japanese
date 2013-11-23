@@ -23,3 +23,10 @@
 					  
 */ 
 //I have already coded it. Soon I will update here
+function convertInteger2JapaneseReading($integer){
+	return $translation;
+}
+function extractTranslatable($number, $stack, $mapJ2I, $mapJ2IExp){
+        return $stack;
+}
+echo convertInteger2JapaneseReading('987654321012345678909876543210');
