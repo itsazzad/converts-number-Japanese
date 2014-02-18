@@ -23,7 +23,7 @@
 					  
 */ 
 //I have already coded it. Soon I will update here
-<?php
+
 function convertInteger2JapaneseReading($integer){
     $mapJ2I=array(
                 "1" => "ichi",
